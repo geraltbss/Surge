@@ -1,4 +1,4 @@
-# Sales Data Engineering — Surge
+# Sales Data Engineering - Surge
 
 A sales data engineering assignment exploring a retail sales dataset with Apache Spark. The notebook cleans and prepares the data, organizes it into a simple sales model, and uses charts to explore sales and profit patterns.
 
@@ -13,8 +13,8 @@ A sales data engineering assignment exploring a retail sales dataset with Apache
 
 ## Data files
 
-- `Dataset1.csv` — retail transaction records
-- `Dataset2.csv` — sales targets by category, date, and customer segment
+- `Dataset1.csv` - retail transaction records
+- `Dataset2.csv` - sales targets by category, date, and customer segment
 
 The repository also contains processed data and a notebook with the analysis.
 
